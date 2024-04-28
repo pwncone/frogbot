@@ -33,6 +33,6 @@ posting frogs to twitter
 (_________.-====' / .' /\_)`--..__________..-- `====-. _________)
                  (.'(.'
 
-ascii art credit: https://www.asciiart.eu/animals/frogs
+(credit) https://www.asciiart.eu/animals/frogs
 ```
    
